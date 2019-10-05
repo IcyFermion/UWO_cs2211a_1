@@ -1,8 +1,8 @@
-# UWO_cs2211a_Kynna-Persyao
+# UWO_cs2211a
 
 **PLEASE KEEP THIS PAGE AND ANY CODES HERE AS A SECRET **
 
-Hello,
+Hello Kynna & Persyao,
 
 I will create two C files here for cs2211a's first assignment. The first file is for Kynna Kee and the second for Persyao(wechat name)
 
