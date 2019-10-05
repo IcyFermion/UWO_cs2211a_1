@@ -1,4 +1,4 @@
-// @author: 
+// @Kynna Kee: 
 #include <stdio.h>
 int main()
 {
