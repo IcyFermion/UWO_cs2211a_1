@@ -1,4 +1,4 @@
-// @Kynna Kee:
+// @author:
 
 int main()
 {
