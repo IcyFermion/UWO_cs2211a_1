@@ -3,7 +3,7 @@
 #include <math.h>
 
 // author:
-// qji8@uwo.ca
+// Yujia Yao
 // 
 
 // the function to see if a number is even number or odd;
